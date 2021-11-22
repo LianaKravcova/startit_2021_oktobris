@@ -1,1 +1,5 @@
-# startit_2021_oktobris
+# Oktobra mācību piemēri
+
+- kā lietot GitHub
+- kā lietot GitHub Desktop
+- kā lietot VS Code ar GitHub
